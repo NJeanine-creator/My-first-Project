@@ -5,6 +5,7 @@ body{
   margin:0;
   padding:0;
   background-image: url(https://bit.ly/2RK9gtu);
+  background-color:black;
   background-attachment:fixed;
   background-size: 80%;
   overflow-x: hidden;
@@ -188,7 +189,7 @@ h2{
     right: 16px;
   }
 h1{
-    color: white;
+    color: blue;
     font-family: tahoma;
     font-weight: bolder;
     font-style: italic;
