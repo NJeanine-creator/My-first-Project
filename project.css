@@ -4,8 +4,7 @@ html{
 body{
   margin:0;
   padding:0;
-  background-image: url(https://miro.medium.com/max/5200/0*PBlx8T0XUMzdsvfX.jpg);
-  background-color:black;
+  background-image:url("https://miro.medium.com/max/5200/0*PBlx8T0XUMzdsvfX.jpg");
   background-attachment:fixed;
   background-size: 80%;
   overflow-x: hidden;
@@ -317,4 +316,4 @@ h1{
 }
 .button >ul > li >a {
     text-decoration: none; ;
-    }
+}
